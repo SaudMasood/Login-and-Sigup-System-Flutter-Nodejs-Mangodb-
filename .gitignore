@@ -1,11 +1,35 @@
-# Flutter
-frontend/build/
-frontend/.dart_tool/
+# ==========================
+# Flutter (Frontend)
+# ==========================
+Frontend/build/
+Frontend/.dart_tool/
+Frontend/.packages
+Frontend/.flutter-plugins
+Frontend/.flutter-plugins-dependencies
 
-# Node.js
+# ==========================
+# Node.js (Backend)
+# ==========================
 backend/node_modules/
 backend/.env
+backend/.env.*
+backend/npm-debug.log*
+backend/yarn-error.log*
 
+# ==========================
 # IDE
-.vscode/
+# ==========================
 .idea/
+.vscode/
+*.iml
+
+# ==========================
+# Android Studio / Kotlin
+# ==========================
+Frontend/android/.kotlin/
+
+# ==========================
+# Operating System
+# ==========================
+.DS_Store
+Thumbs.db
