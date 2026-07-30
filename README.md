@@ -204,7 +204,7 @@ POST /login
 ## 👨‍💻 Developer
 
 **Saud Masood**
-BS Computer Science Student • Flutter Developer • Backend Developer • AI & ML Enthusiast
+BS Computer Science Graduate & Now Developer • Flutter Developer • Backend Developer • AI & ML Enthusiast
 
 ---
 
